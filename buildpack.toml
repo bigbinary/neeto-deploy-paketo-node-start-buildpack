@@ -2,7 +2,7 @@ api = "0.7"
 
 [buildpack]
   homepage = "https://github.com/paketo-buildpacks/node-start"
-  id = "paketo-buildpacks/node-start"
+  id = "neeto-deploy/node-start"
   name = "Paketo Buildpack for Node Start"
 
   [[buildpack.licenses]]
